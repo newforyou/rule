@@ -1,0 +1,18 @@
+# NAME: EmbyPrivateUse
+# AUTHOR: Yolo
+# 自用Emby服务器
+
+# 关键字匹配
+DOMAIN-KEYWORD,emby
+
+# 纸片人
+DOMAIN, embyplus.org
+
+# PiliPili
+DOMAIN, emby.pilipiliultra.com
+DOMAIN, emby.pilipiliultra.top
+
+# Misakaf
+DOMAIN, emby.misakaf.org
+DOMAIN, embyvip.misakaf.org
+DOMAIN, 2333.123456.al
