@@ -1,0 +1,16 @@
+# NAME: Emby
+# AUTHOR: Yolo
+# 关键字匹配
+DOMAIN-KEYWORD,emby
+
+# 纸片人
+DOMAIN-SUFFIX,embyplus.org
+
+# PiliPili
+DOMAIN-SUFFIX,emby.pilipiliultra.com
+DOMAIN-SUFFIX,emby.pilipiliultra.top
+
+# Misakaf
+DOMAIN-SUFFIX,emby.misakaf.org
+DOMAIN-SUFFIX,embyvip.misakaf.org
+DOMAIN-SUFFIX,2333.123456.al
