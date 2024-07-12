@@ -9,9 +9,10 @@ DOMAIN-SUFFIX,embyplus.org
 # PiliPili
 DOMAIN-SUFFIX,emby.pilipiliultra.com
 DOMAIN-SUFFIX,emby.pilipiliultra.top
-DOMAIN-SUFFIX,stream_pilipili.misakaf.org
 
 # Misakaf
 DOMAIN-SUFFIX,emby.misakaf.org
 DOMAIN-SUFFIX,embyvip.misakaf.org
 DOMAIN-SUFFIX,2333.123456.al
+
+DOMAIN-SUFFIX,misakaf.org
