@@ -3,16 +3,9 @@
 # 关键字匹配
 DOMAIN-KEYWORD,emby
 
-# 纸片人
-DOMAIN-SUFFIX,embyplus.org
-
 # PiliPili
 DOMAIN-SUFFIX,pilipili.club
-DOMAIN-SUFFIX,css.pilipili.club
+DOMAIN-SUFFIX,emby.pilipiliultra.com
+DOMAIN-SUFFIX,streamer.pilipiliultra.com
 
-# Misakaf
-DOMAIN-SUFFIX,emby.misakaf.org
-DOMAIN-SUFFIX,embyvip.misakaf.org
-DOMAIN-SUFFIX,2333.123456.al
-
-DOMAIN-SUFFIX,misakaf.org
+DOMAIN-SUFFIX,tanhuatv.site
