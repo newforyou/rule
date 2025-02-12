@@ -5,14 +5,10 @@
 # 关键字匹配
 DOMAIN-KEYWORD,emby
 
-# 纸片人
-DOMAIN, embyplus.org
-
 # PiliPili
 DOMAIN, pilipili.club
-DOMAIN, css.pilipili.club
+DOMAIN, emby.pilipiliultra.com
+DOMAIN, streamer.pilipiliultra.com
 
-# Misakaf
-DOMAIN, emby.misakaf.org
-DOMAIN, embyvip.misakaf.org
-DOMAIN, 2333.123456.al
+DOMAIN, tanhuatv.site
+
