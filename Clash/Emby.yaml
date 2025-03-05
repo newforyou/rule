@@ -5,4 +5,5 @@ payload:
   - DOMAIN-KEYWORD,emby
   - DOMAIN-SUFFIX,emby-direct.pilipiliultra.com
   - DOMAIN-SUFFIX,emby.pilipiliultra.com
+  - DOMAIN-SUFFIX,streamer.pilipiliultra.com
   - DOMAIN-SUFFIX,tanhuatv.site
