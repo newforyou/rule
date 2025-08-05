@@ -6,8 +6,4 @@
 DOMAIN-KEYWORD,emby
 
 # PiliPili
-DOMAIN, emby-direct.pilipiliultra.com
-DOMAIN, emby.pilipiliultra.com
-
-DOMAIN, tanhuatv.site
-
+DOMAIN-SUFFIX,pilipiliultra.com
