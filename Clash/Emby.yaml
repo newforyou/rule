@@ -3,7 +3,4 @@
 # UPDATED: 2024-07-30 19:59:40
 payload:
   - DOMAIN-KEYWORD,emby
-  - DOMAIN-SUFFIX,emby-direct.pilipiliultra.com
-  - DOMAIN-SUFFIX,emby.pilipiliultra.com
-  - DOMAIN-SUFFIX,streamer.pilipiliultra.com
-  - DOMAIN-SUFFIX,tanhuatv.site
+  - DOMAIN-SUFFIX,pilipiliultra.com
